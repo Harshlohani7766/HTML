@@ -1,0 +1,10 @@
+<html>
+    <body>
+        <h1>Font size</h1>
+        <h3 style="font-size:300%;">Jk Business School</h3>
+        <p style="font-size:160%;">Harsh Lohani</p>
+        <h1>text align</h1>
+        <h1 style="text-align:center;">Student pursuing BCA</h1>
+        <p style="text-align:right;">Address: House no. 2707 Laxman Vihar Phase-2 Gurugram(Haryana)</p>
+    </body>
+</html>
