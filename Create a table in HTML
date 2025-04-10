@@ -1,0 +1,44 @@
+<html>
+<head>
+<style>
+table,th,td {
+ border: 1px solid black;
+}
+</style>
+</head>
+<h2> Student Table </h2>
+<body>
+<table>
+<tr>
+<th> Id </th>
+<th> name </th>
+<th> fathers name </th>
+<th> course </th>
+</tr>
+<tr>
+<td> 121 </td>
+<td> Sumit Tomar </td>
+<td> Mukesh Tomar </td>
+<td> BBA </td>
+</tr>
+<tr>
+<td> 342 </td>
+<td> Harsh Lohani </td>
+<td> Hem Chandra Lohani </td>
+<td> BCA </td>
+</tr>
+<tr>
+<td> 251 </td>
+<td> Akshat Sharma </td>
+<td> Ram Sharma </td>
+<td> BA </td>
+</tr>
+<tr>
+<td> 372 </td>
+<td> Abhi Dubey </td>
+<td> Shyam Dubey </td>
+<td> BCOM </td>
+</tr>
+</table>
+</body>
+</html>
