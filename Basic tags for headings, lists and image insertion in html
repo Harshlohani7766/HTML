@@ -1,0 +1,56 @@
+<html>
+<body>
+Internet as a physical collection of routers and circuits as a set of <strong>shared</strong> resources. <p>Some common definitions given in the past include −
+A network of networks based on the TCP/IP communications protocol.</p>
+<p>A community of people who use and develop those networks.</p>
+<p>A <strong>network of networks</strong> based on the TCP/IP communications protocol.</p>
+<h1>heading</h1>
+<h2>heading</h2>
+<h3>heading</h3>
+<h4>heading</h4>	
+<h5>heading</h5>
+<h6>heading</h6>
+<ul>
+<li>HARSH</li>
+<li>AKSHAT</li>
+<li>ABHI</li>
+</ul>
+<li>HARSH</li>
+<li>AKSHAT</li>
+<li>ABHI</li>
+<ol>
+<li>HARSH</li>
+<li>AKSHAT</li>
+<li>ABHI</li>
+</ol>
+<ol type="I">
+<li>HARSH</li>
+<li>AKSHAT</li>
+<li>ABHI</li>
+</ol>
+<ol type="i">
+<li>HARSH</li>
+<li>AKSHAT</li>
+<li>ABHI</li>
+</ol>
+<ol type="a">
+<li>HARSH</li>
+<li>AKSHAT</li>
+<li>ABHI</li>
+</ol>
+<ol type="A">
+<li>HARSH</li>
+<li>AKSHAT</li>
+<li>ABHI</li>
+</ol>
+<ol type="1">
+<li>HARSH</li>
+<li>AKSHAT</li>
+<li>ABHI</li>
+</ol>
+<p>
+<img src="C:\Users\hp\OneDrive\Desktop\web development\mountain.jpeg" alt="Mountain" width="400px" height="300">
+</p>
+<img src="C:\Users\hp\OneDrive\Desktop\Coding\Harsh Lohani\public_html\assets\imgs\Harsh Lohani.jpg" alt="Harsh Lohani" width="400px" height="300">
+</body>
+</html>
